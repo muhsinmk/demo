@@ -1,7 +1,7 @@
 const GraduationCard = () => {
   return (
     <section className="flex items-center justify-center my-14">
-      <div className="bg-card-1 bg-cover bg-center h-screen w-11/12 rounded-3xl relative ">
+      <div className="bg-card-1 bg-cover bg-center h-[50vh] md:h-screen w-11/12 rounded-3xl relative ">
         <div className="absolute bottom-0 left-0 p-6 sm:p-4 md:p-6 lg:p-14">
           <button className="p-4 bg-white rounded-full">
             <svg

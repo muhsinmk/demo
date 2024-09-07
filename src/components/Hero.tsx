@@ -5,10 +5,10 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="bg-hero-img bg-cover bg-center h-screen">
+    <section className="bg-hero-img bg-cover bg-center h-[50vh] md:h-screen">
       <NavBar />
 
-      <div className="relative h-screen">
+      <div className="relative h-full">
         <div className="absolute bottom-0 left-0 p-6 sm:p-4 md:p-6 lg:p-8">
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 sm:mb-6 md:mb-8">
             Lorem ipsum dolor sit amet
