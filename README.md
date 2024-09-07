@@ -100,7 +100,7 @@ This will create an optimized production build in the `.next` directory.
 
 This project uses [Vitest](https://vitest.dev/) for testing. Vitest is a fast and modern testing framework that integrates seamlessly with Vite.
 
-## Getting Started
+### Getting Started
 
 Follow these steps to set up and run tests in your Vitest project.
 
