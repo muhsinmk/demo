@@ -5,7 +5,7 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="bg-hero-img bg-cover bg-center h-[50vh] md:h-screen">
+    <section className="bg-hero-img bg-cover bg-center h-[70vh] md:h-screen">
       <NavBar />
 
       <div className="relative h-full">
